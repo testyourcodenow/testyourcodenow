@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm  Shaka Paul**
+**I'm Shaka Paul**
 
 
 <!---is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!----->
